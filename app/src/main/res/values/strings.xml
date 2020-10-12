@@ -1,0 +1,7 @@
+<resources>
+    //declaracion de strings
+    <string name="app_name">Pinturas</string>
+    <string name="boton">Imagen</string>
+    <string name="imageView">visor</string>
+
+</resources>
